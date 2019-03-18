@@ -11,4 +11,4 @@ Work through all the exercises to notebook 6
 
 ## Notebook 01 - 06 exercises
 
-Updated scripts for the python exercises from notebook 1 to  6
+Updated scripts for the python exercises from notebook 1 to 6
