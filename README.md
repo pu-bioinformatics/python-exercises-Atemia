@@ -8,3 +8,7 @@ For each of the exercises in in the Jupyter Notebooks, you are required to creat
 
 
 Work through all the exercises to notebook 6
+
+## Notebook 01 - 06 exercises
+
+Updated scripts for the python exercises from notebook 1 to  6
