@@ -1,4 +1,4 @@
-#!/Users/ATEMIA/miniconda3/bin/python
+
 # ATM DEPOSIT,WITHDRAWAL AND BALANCE CHECK
 acountbal = 50000
 choice = input("Please enter 'b' to check balance, 'w' to withdraw or 'd' to deposit: ")

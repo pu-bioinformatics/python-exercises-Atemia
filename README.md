@@ -12,3 +12,7 @@ Work through all the exercises to notebook 6
 ## Notebook 01 - 06 exercises
 
 Updated scripts for the python exercises from notebook 1 to 6
+
+CK: Your README does not provide information on the structure your repo, or what the repo is really about. 
+
+25/30

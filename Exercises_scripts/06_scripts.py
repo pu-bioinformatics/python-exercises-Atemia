@@ -19,6 +19,7 @@ print("The GC content is,", GC_content)
 AT_content = 100 - GC_content
 print("The GC content is,", AT_content)
 print(" In summary;\n The tRNA has GC content of %.3f and AT content of %.3f" % (GC_content, AT_content))
+#CK: You no longer need the above once you have converted them to a function
 
 #function 1 testing the bases in the dna sequence
 def test_dna(sequence):
@@ -43,6 +44,11 @@ def percentageGC(sequence):
         G_count = sequence.count('G')
         #T_count = sequence.count('T')
         GC_content = (((G_count + C_count)/ len(sequence)) * 100)
-        return print("The percentage GC content in the sequence is %.2f" % (GC_content))
+        print("The percentage GC content in the sequence is %.2f" % (GC_content)) #CK: You do not return a print
+        return GC_content
     else:
         print("Input not DNA")
+
+#CK: you have the functions, but where are you caling them?  
+
+percentageGC(trna)
